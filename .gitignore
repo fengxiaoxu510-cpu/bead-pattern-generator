@@ -1,0 +1,13 @@
+# Personal photos — never commit
+*.jpg
+*.jpeg
+*.png
+*.heic
+*.webp
+
+# Allow sample images only
+!samples/*.png
+
+# Python
+__pycache__/
+*.pyc
